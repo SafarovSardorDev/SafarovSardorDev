@@ -7,7 +7,6 @@ I'm **Sardor Safarov**, a passionate **Django Backend Developer** who loves buil
 ### 🔭 Current Focus
 - Developing robust backends using **Django** and **Django Rest Framework (DRF)**.
 - Working on projects that involve **PostgreSQL**, **Celery**.
-- Exploring containerization with **Docker**.
 
 ---
 
