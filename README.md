@@ -26,7 +26,7 @@ I'm looking to collaborate on:
 
 ### 📫 How to Reach Me
 - **Telegram:** [Sardor](https://t.me/mr_alg0r1thm)
-- **LinkedIn:** [Sardor Safarov](https://linkedin.com/in/safarovsardordev)
+- **LinkedIn:** [Sardor Safarov](https://www.linkedin.com/in/sardor-safarov-b372b226a/)
 - **GitHub:** [@SafarovSardorDev](https://github.com/SafarovSardorDev)
 
 ---
