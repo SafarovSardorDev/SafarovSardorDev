@@ -1,52 +1,46 @@
-# Hi there 👋
+### Hi there, I'm Sardor Safarov! 👋
 
-I'm **Sardor Safarov**, a passionate **Django Backend Developer** who loves building scalable web applications and RESTful APIs. 🚀
-
----
-
-### 🔭 Current Focus
-- Developing robust backends using **Django** and **Django Rest Framework (DRF)**.
-- Working on projects that involve **PostgreSQL**, **Celery**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Python+Developer;I'm+a+Backend+Engineer;I'm+a+Tech+Enthusiast)
 
 ---
 
-### 👯 Collaboration
-I'm looking to collaborate on:
-- Open-source projects, especially in **web development**.
-- Backend systems for **e-commerce**, **content management**, or **financial platforms**.
+### 👨‍💻 About Me:
+- 🚀 **Django Backend Developer** passionate about building scalable web applications.
+- 🎯 Focused on **Django**, **Django Rest Framework**, **PostgreSQL**, and **Celery**.
+- 🏗️ Love working on **RESTful APIs**, **microservices**, and **backend systems**.
+- 📈 Always eager to learn and contribute to open-source projects.
 
 ---
 
-### 💬 Ask Me About
-- Building REST APIs with Django.
-- Database optimization for **PostgreSQL**.
+### 🛠️ Tech Stack:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 📫 How to Reach Me
-- **Telegram:** [Sardor](https://t.me/iamsardordev)
-- **LinkedIn:** [Sardor Safarov](https://www.linkedin.com/in/sardor-safarov-b372b226a/)
-- **GitHub:** [@SafarovSardorDev](https://github.com/SafarovSardorDev)
+### 📊 GitHub Stats:
 
----
-
-### ⚡ Fun Fact
-I solve coding challenges for fun and enjoy contributing to the open-source community. 🌍
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Frameworks:** Django, Django Rest Framework
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Others:** REST API, JWT, Unit Testing
-
----
-
-### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafarovSardorDev&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovSardorDev&layout=compact&theme=radical)
+
 ---
 
-Feel free to connect and discuss new ideas or opportunities. Happy coding! 😊
- 
+### 📫 Connect With Me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamsardordev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardor-safarov-b372b226a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SafarovSardorDev)
+
+---
+
+### ⚡ Fun Fact:
+🔹 I love solving coding challenges and exploring new technologies!
+
+---
+
+✨ *Feel free to connect with me and discuss exciting projects!* 😊
