@@ -44,7 +44,6 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <br/>
   <img src="https://img.shields.io/badge/-UnitTest-007ACC?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Aiogram-13A5DA?style=flat&logo=telegram&logoColor=white">
 </p>
