@@ -8,11 +8,8 @@
 - 🎯 Focused on **Django**, **Django Rest Framework**, **PostgreSQL**, and **Celery**.
 - 🏗️ Love working on **RESTful APIs**, **microservices**, and **backend systems**.
 - 📈 Always eager to learn and contribute to open-source projects.
-
 ---
-### 🏆 GitHub Profile Trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SafarovSardorDev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="right" alt="Coding" src="https://media.gifdb.com/document-function-coding-7ym5bmzpd6tb5wn3.gif">
 
 ---
 ### 🛠️ Tech Stack:
