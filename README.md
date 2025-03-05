@@ -76,8 +76,8 @@
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
     </a>
     <br>
-    <a href="https://tirikchilik.uz/your-profile">
-        <img border="1" src="#" alt="Tirikchilik.uz"/>
+    <a href="https://tirikchilik.uz/iamsardordev">
+        <img border="1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2Vb2SExJOTy392-lPSH27iwam_TcymriQg&s" alt="Tirikchilik.uz"/>
     </a>
 </p>
 
