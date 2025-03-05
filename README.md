@@ -44,3 +44,6 @@
 ---
 
 ✨ *Feel free to connect with me and discuss exciting projects!* 😊
+
+![Snake animation](https://github.com/SafarovSardorDev/SafarovSardorDev/blob/output/github-contribution-grid-snake.svg)
+
