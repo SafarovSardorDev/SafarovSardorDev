@@ -1,49 +1,38 @@
-👋 Hi there, I'm Sardor Safarov
-💻 Django Backend Developer | ⚡ REST API Enthusiast | 🚀 Scalable Solutions Builder
+Hey there! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+I'm Sardor Safarov, a passionate Django Backend Developer who loves building scalable web applications and RESTful APIs. 🚀
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" align="center"/>
+🔥 About Me
+💻 Passionate about Python & Django
+📡 Love working with APIs & Databases
+🚀 Always learning and exploring new technologies
+🎯 Focused on clean code and scalable architectures
+
+🚀 What I’m Working On
+Developing robust backends using Django & Django Rest Framework (DRF)
+Optimizing PostgreSQL databases for performance
+Working on Celery for async task management
+🤝 Collaboration
+I'm looking to collaborate on:
+
+Open-source projects in web development
+Backend systems for e-commerce, finance, and content management
+🛠️ Tech Stack
 
 
-🚀 About Me
-🔹 Passionate Django Developer with a deep interest in backend development.
-🔹 I enjoy solving complex problems and optimizing backend performance.
-🔹 Love working with PostgreSQL, Celery, and scalable architectures.
 
-🛠 Tech Stack
-Languages:
 
-Frameworks:
 
-Databases:
 
-Tools:
-
-🌱 Currently Exploring
-🚀 Advanced Django Optimization
-🏗 Scalable Microservices with Django
-📡 Event-driven architecture using Celery & Redis
-🤝 Let's Collaborate!
-🔹 Open to working on open-source Django projects.
-🔹 Interested in e-commerce, content management, and financial platforms.
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafarovSardorDev&theme=radical&hide_border=false" alt="GitHub Streak" height="150px"/> <img src="https://github-readme-stats.vercel.app/api?username=SafarovSardorDev&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/> </div>
-📫 Contact Me
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SafarovSardorDev&show_icons=true&theme=radical" height="150px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafarovSardorDev&theme=radical" height="150px"/> </p>
+📫 How to Reach Me
 
 
 
-⚡ Fun Fact
-💡 I enjoy solving coding challenges for fun and love contributing to open-source projects. 🌍
+🎉 Fun Fact
+I enjoy solving coding challenges for fun and contributing to open-source projects! 🌍
 
-🚀 Let's build something amazing together! Happy Coding! 😊
-🎯 Qo'shimcha tavsiyalar:
-✅ Profilingizga GitHub trophies qo'shish:
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SafarovSardorDev&theme=radical)
-✅ Profil banner qo'shish:
-
-GitHub profil sahifangizga banner qo'shish uchun profile settings orqali rasm yuklashingiz mumkin.
-Canva yoki Figma kabi vositalardan foydalanib Django-themed banner tayyorlash tavsiya qilinadi.
-✅ Profil avatariga GitHub Skyline qo'shish:
-
-GitHub'da sizning commit tarixingiz asosida 3D vizualizatsiya yaratib beradi:
-👉 https://skyline.github.com/
+🚀 "Code more, build more, learn more!" 💡
+Feel free to connect and discuss new ideas or opportunities. Happy coding! 😊
