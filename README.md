@@ -4,15 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+Python+Developer;I+love+Backend+Development" alt="Typing SVG" />
   </a>
 </p>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 <br/>
 
 - 👋 Hi, I’m Sardor
 - 👨‍💻 I love creating websites, bots and programming in Python.
 - I'm a student of <a target="_blank" href="https://tiiame.uz">"TIIAME" NRU</a>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <h3>🔍 A little more about me<h3/>
 	
 ```python
@@ -95,9 +94,8 @@ if __name__ == "__main__":
         <img border="1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2Vb2SExJOTy392-lPSH27iwam_TcymriQg&s" alt="Tirikchilik.uz"/>
     </a>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<p align="center">© 2025 Sardor Safarov. All rights reserved.<p/>
+
 
 
 
