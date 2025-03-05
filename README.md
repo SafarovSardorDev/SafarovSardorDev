@@ -1,7 +1,6 @@
 ### Hi there, I'm Sardor Safarov! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=I'm+a+Python+Developer;I+love+Backend+Development;Always+learning+new+things)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=I'm+a+Python+Developer;I+love+Backend+Development;Always+learning+new+things)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 About Me:
