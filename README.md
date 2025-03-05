@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Sardor
 - 👨‍💻 I love creating websites, bots and programming in Python.
-- I'm a student of <a target="_blank" href="https://tiiame.uz">"TIIAME" NRU</a>
+- 🎓 I'm a student of <a target="_blank" href="https://tiiame.uz">"TIIAME" NRU</a>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
