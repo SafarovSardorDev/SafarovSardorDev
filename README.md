@@ -1,9 +1,7 @@
-<p align="center">
-  <h1 align="center">Hi there 👋, I'm Sardor Safarov!</h1>
-</p>
+
 <p align="center">
   <a align="center" href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=I'm+a+Python+Developer;I+love+Backend+Development;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&width=435&lines=Welcome+to+my+GitHub+profile;I'm+a+Python+Developer;I+love+Backend+Development" alt="Typing SVG" />
   </a>
 </p>
 <a target="_blank" align="center">
@@ -11,11 +9,29 @@
 </a>
 <br/>
 
-### 👨‍💻 About Me:
-- 🚀 **Django Backend Developer** passionate about building scalable web applications.
-- 🎯 Focused on **Django**, **Django Rest Framework**, **PostgreSQL**, and **Celery**.
-- 🏗️ Love working on **RESTful APIs**, **microservices**, and **backend systems**.
-- 📈 Always eager to learn and contribute to open-source projects.
+- 👋 Hi, I’m Sardor
+- 👨‍💻 I love creating websites, bots and programming in Python.
+- I'm a student of <a target="_blank" href="https://tiiame.uz">"TIIAME" NRU</a>
+
+<h3>🔍 A little more about me<h3/>
+	
+```python
+class SardorSafarov:
+    def __init__(self):
+        self.name = "Sardor Safarov"
+        self.username = "SafarovSardorDev"
+        self.location = "Uzbekistan"
+        self.info = "Python Backend Developer"
+	self.technologies = ["Python", "Django", "DRF", "PostgreSQL", "Docker", "Celery", "Aiogram"]
+	self.interests = ["AI & Machine Learning", "WebDevelopment", "Open Source"]
+	self.languages = {"Uzbek":"native", "English":"pre-intermedite", "Russian":"elementary"}
+    
+    def __str__(self):
+        return self.name
+
+if __name__ == "__main__":
+    me = SardorSafarov()
+```
 
 
 ### 🛠️ Tech Stack:
@@ -79,6 +95,9 @@
     <a href="https://tirikchilik.uz/iamsardordev">
         <img border="1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2Vb2SExJOTy392-lPSH27iwam_TcymriQg&s" alt="Tirikchilik.uz"/>
     </a>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 
