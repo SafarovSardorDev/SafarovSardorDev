@@ -1,52 +1,49 @@
-# Hi there 👋
+👋 Hi there, I'm Sardor Safarov
+💻 Django Backend Developer | ⚡ REST API Enthusiast | 🚀 Scalable Solutions Builder
 
-I'm **Sardor Safarov**, a passionate **Django Backend Developer** who loves building scalable web applications and RESTful APIs. 🚀
 
----
+🚀 About Me
+🔹 Passionate Django Developer with a deep interest in backend development.
+🔹 I enjoy solving complex problems and optimizing backend performance.
+🔹 Love working with PostgreSQL, Celery, and scalable architectures.
 
-### 🔭 Current Focus
-- Developing robust backends using **Django** and **Django Rest Framework (DRF)**.
-- Working on projects that involve **PostgreSQL**, **Celery**.
+🛠 Tech Stack
+Languages:
 
----
+Frameworks:
 
-### 👯 Collaboration
-I'm looking to collaborate on:
-- Open-source projects, especially in **web development**.
-- Backend systems for **e-commerce**, **content management**, or **financial platforms**.
+Databases:
 
----
+Tools:
 
-### 💬 Ask Me About
-- Building REST APIs with Django.
-- Database optimization for **PostgreSQL**.
+🌱 Currently Exploring
+🚀 Advanced Django Optimization
+🏗 Scalable Microservices with Django
+📡 Event-driven architecture using Celery & Redis
+🤝 Let's Collaborate!
+🔹 Open to working on open-source Django projects.
+🔹 Interested in e-commerce, content management, and financial platforms.
 
----
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafarovSardorDev&theme=radical&hide_border=false" alt="GitHub Streak" height="150px"/> <img src="https://github-readme-stats.vercel.app/api?username=SafarovSardorDev&show_icons=true&theme=radical" alt="GitHub Stats" height="150px"/> </div>
+📫 Contact Me
 
-### 📫 How to Reach Me
-- **Telegram:** [Sardor](https://t.me/iamsardordev)
-- **LinkedIn:** [Sardor Safarov](https://www.linkedin.com/in/sardor-safarov-b372b226a/)
-- **GitHub:** [@SafarovSardorDev](https://github.com/SafarovSardorDev)
 
----
 
-### ⚡ Fun Fact
-I solve coding challenges for fun and enjoy contributing to the open-source community. 🌍
+⚡ Fun Fact
+💡 I enjoy solving coding challenges for fun and love contributing to open-source projects. 🌍
 
----
+🚀 Let's build something amazing together! Happy Coding! 😊
+🎯 Qo'shimcha tavsiyalar:
+✅ Profilingizga GitHub trophies qo'shish:
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Frameworks:** Django, Django Rest Framework
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Others:** REST API, JWT, Unit Testing
 
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SafarovSardorDev&theme=radical)
+✅ Profil banner qo'shish:
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafarovSardorDev&show_icons=true&theme=radical)
+GitHub profil sahifangizga banner qo'shish uchun profile settings orqali rasm yuklashingiz mumkin.
+Canva yoki Figma kabi vositalardan foydalanib Django-themed banner tayyorlash tavsiya qilinadi.
+✅ Profil avatariga GitHub Skyline qo'shish:
 
----
-
-Feel free to connect and discuss new ideas or opportunities. Happy coding! 😊
- 
+GitHub'da sizning commit tarixingiz asosida 3D vizualizatsiya yaratib beradi:
+👉 https://skyline.github.com/
