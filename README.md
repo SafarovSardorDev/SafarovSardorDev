@@ -10,17 +10,8 @@
 - 📈 Always eager to learn and contribute to open-source projects.
 ---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-</div>
-###🛠️ Tech Stack:
+
+### 🛠️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
@@ -36,13 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafarovSardorDev&layout=compact&theme=radical)
 
----
-
-### 🐍 Snake Animation:
-
-![snake gif](https://github.com/SafarovSardorDev/SafarovSardorDev/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Connect With Me:
 
@@ -50,13 +34,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardor-safarov-b372b226a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SafarovSardorDev)
 
----
 
 ### ☕ Support Me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F9A825?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/safarovsardor)
 
----
 
 ### ⚡ Fun Fact:
 🔹 I love solving coding challenges and exploring new technologies!
