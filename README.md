@@ -24,7 +24,7 @@ class SardorSafarov:
         self.info = "Python Backend Developer"
 	self.technologies = ["Python", "Django", "DRF", "PostgreSQL", "Docker", "Celery", "Aiogram"]
 	self.interests = ["AI & Machine Learning", "WebDevelopment", "Open Source"]
-	self.languages = {"Uzbek":"native", "English":"pre-intermedite", "Russian":"elementary"}
+	self.languages = {"Uzbek":"native", "English":"pre-intermediate", "Russian":"elementary"}
     
     def __str__(self):
         return self.name
